@@ -2,7 +2,7 @@
 # 🚀 Technical Deep Dive: Frustri Trānslātor v2.3
 ### **Automated Large-Scale Translation Orchestrator via Gemini API**
 
-![Version](https://img.shields.io/badge/Version-2.3-2026-blue?style=for-the-badge) ![Engine](https://img.shields.io/badge/Engine-Gemini_3.0_Pro_%2F_3.0_Flash-orange?style=for-the-badge&logo=google-gemini) ![Platform](https://img.shields.io/badge/Platform-Desktop--macOS_Aesthetic-lightgrey?style=for-the-badge&logo=apple)
+![Version](https://img.shields.io/badge/Version-2.3_2026-blue?style=for-the-badge) ![Engine](https://img.shields.io/badge/Engine-Gemini_3.0_Pro_%2F_3.0_Flash-orange?style=for-the-badge&logo=google-gemini) ![Platform](https://img.shields.io/badge/Platform-Desktop--macOS_Aesthetic-lightgrey?style=for-the-badge&logo=apple)
 
 ---
 
