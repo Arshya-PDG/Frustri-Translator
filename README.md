@@ -1,6 +1,6 @@
 # Technical Deep Dive: Automated Large-Scale Translation Orchestrator via Gemini API
 
-   [Version](https://img.shields.io/badge/Version-2.3.2026-blue?style=for-the-badge) ![Engine](https://img.shields.io/badge/Engine-Gemini_3_Pro_%2F_Flash-orange?style=for-the-badge&logo=google-gemini) [Platform](https://img.shields.io/badge/Platform-Desktop--macOS_Aesthetic-lightgrey?style=for-the-badge&logo=apple)
+   ![Version](https://img.shields.io/badge/Version-2.3.2026-blue?style=for-the-badge) ![Engine](https://img.shields.io/badge/Engine-Gemini_3_Pro_%2F_Flash-orange?style=for-the-badge&logo=google-gemini) ![Platform](https://img.shields.io/badge/Platform-Desktop--macOS_Aesthetic-lightgrey?style=for-the-badge&logo=apple)
 ### 1. Executive Summary
 The **Automated Translation Orchestrator** is a sophisticated software solution designed to bridge the gap between Large Language Models (LLMs) and long-form content localization. While standard AI interfaces (like ChatGPT or Gemini web versions) impose significant constraints on input length and require manual intervention, this tool automates the entire pipeline. It specializes in converting extensive manuscripts, books, and technical documents into high-quality translations using Google’s Gemini API, ensuring a seamless flow from raw input to structured output without the typical bottlenecks of manual data handling.
 
