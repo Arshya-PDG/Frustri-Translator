@@ -82,7 +82,7 @@ The primary value of this tool lies in the elimination of **"Operational Frictio
 ---
 
 ### 🧠 **How It Works:**
-*   📥 **File Ingestion:** The app parses `.docx`, `.pdf`, or `.pptx` and extracts raw text strings.
+*   📥 **File Ingestion:** The app parses `.txt`, `.docx`, `.pdf`, or `.pptx` and extracts raw text strings.
 *   👁️ **OCR Activation:** Scanned PDFs trigger the OCR engine to extract visual characters.
 *   📏 **Boundary Analysis:** The algorithm scans for the nearest logical sentence terminator.
 *   🧩 **Intelligent Chunking:** Text is divided into user-defined segments to optimize context.
@@ -115,7 +115,7 @@ The primary value of this tool lies in the elimination of **"Operational Frictio
 *   ✍️ **Custom Prompting:** Total control over instructions and stylistic rules.
 *   🗂️ **Header Mapping:** Automatically generates clickable Word Table of Contents.
 *   ⚡ **Immediate Feedback:** Real-time token counters and live logs keep you informed.
-*   🔄 **Future-Proof:** Built to switch to the latest Gemini models (e.g., 2.0) seamlessly.
+*   🔄 **Future-Proof:** Built to switch to the latest Gemini models (e.g., 3.5, 4.0) seamlessly.
 
 ---
 
